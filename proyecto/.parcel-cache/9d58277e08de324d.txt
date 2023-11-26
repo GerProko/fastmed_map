@@ -1,0 +1,20 @@
+19
+62C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\config133454295741764740 1
+94C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\config\tile-layers\option.interface.ts133454295741764740 0
+68C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\package.json133454295742233652 0
+60C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\dist133454295742077763 1
+69C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\tsconfig.json133454295742389547 0
+64C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\index.ts133454296949544965 0
+73C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\dist\index.js.map133454295741920936 0
+66C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\index.html133454295742233652 0
+71C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\gps-draw-map.ts133454295742233652 0
+73C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\package-lock.json133454295742233652 0
+71C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\dist\index.html133454295741764740 0
+69C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\dist\index.js133454295741920936 0
+81C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\dist\proyecto.3464ddca.js133454295741920936 0
+85C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\dist\proyecto.3464ddca.js.map133454295741920936 0
+87C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\config\tile-layers\functions.ts133454295741764740 0
+81C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\dist\proyecto.77de5100.js133454295742077763 0
+85C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\dist\proyecto.77de5100.js.map133454295742077763 0
+74C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\config\tile-layers133454295741764740 1
+82C:\Users\46875170\Documents\GitHub\fastmed_map\proyecto\config\tile-layers\data.ts133454295741764740 0

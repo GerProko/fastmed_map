@@ -17,4 +17,4 @@ axios.get('https://raw.githubusercontent.com/leaflet-maps-course/resources/main/
 
 const gpsDrawMap = new GpsDrawMap();
 
-gpsDrawMap.getPoints("https://raw.githubusercontent.com/leaflet-maps-course/resources/main/tracks/gr-120-camino-ignaciano_145_km.gpx");
+gpsDrawMap.getPoints("https://raw.githubusercontent.com/GerProko/rutas/main/mapstogpx20231123_111341.gpx?token=GHSAT0AAAAAACKUVQOVEF6SF37BUT6IHL3UZLCSW7A");
